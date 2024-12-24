@@ -160,7 +160,7 @@ section .title::after{
 .home {
     display: flex;
     background: no-repeat center;
-    background-color: #111;
+    background-color: #2C3E50;
     height: 100vh;
     min-height: 500px;
     background-size: cover;
@@ -443,7 +443,7 @@ section .title::after{
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
-    background: #222;
+    background: #3C2F41;
     text-align: center;
     border-radius: 10px;
     padding: 40px 25px;
@@ -533,7 +533,7 @@ section .title::after{
     content: "what i've written";
 }
 .blogs .carousel .card{
-    background: #222;
+    background: #3C2F41;
     border-radius: 6px;
     padding: 25px 35px;
     text-align: center;
@@ -971,7 +971,7 @@ color: white;
 .contact,
 .about {
     background: no-repeat center;
-    background-color: #111;
+    background-color: #2C3E50;
     background-size: cover;
 }
 
@@ -984,7 +984,7 @@ color: white;
     .contact,
     .about {
         background: no-repeat center;
-        background-color: #111;
+        background-color: #2C3E50;
         background-size: cover;
     }
 }
